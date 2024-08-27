@@ -1,4 +1,5 @@
 ## Hi there :)
+
 <a href="https://github.com/catsdisownedz/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=catsdisownedz&show_icons=true&theme=radical" />
 </a>&nbsp;
@@ -7,8 +8,6 @@
 </a>
 
 <!--
-**
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
