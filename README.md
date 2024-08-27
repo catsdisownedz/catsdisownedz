@@ -1,9 +1,5 @@
 ## Hi there :)
 
-<!--
-![Zeina's GitHub stats](https://github-readme-stats.vercel.app/api?username=catsdisownedz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catsdisownedz&hide_progress=true&theme=radical)
--->
 
 <a href="https://github.com/catsdisownedz/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=catsdisownedz&show_icons=true&theme=radical" />
@@ -11,6 +7,7 @@
 <a href="https://github.com/catsdisownedz/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catsdisownedz&theme=radical&layout=compact&langs_count=8&card_width=320" />
 </a>
+
 <!--
 **
 
