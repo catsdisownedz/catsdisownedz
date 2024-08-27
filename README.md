@@ -9,7 +9,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=catsdisownedz&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/catsdisownedz/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catsdisownedz&hide_progress=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catsdisownedz&theme=radical" />
 </a>
 <!--
 **
