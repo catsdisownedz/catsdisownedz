@@ -38,7 +38,7 @@
 
 ---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=catsdisownedz&bg_color=none&hide_border=true&color=FFFFFF&line=FFB7C5&point=AA00FF&grid_color=FFD1DC&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=catsdisownedz&bg_color=none&hide_border=true&color=FFFFFF&line=FF69B4&point=AA00FF&grid_color=FFD1DC&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
