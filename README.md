@@ -42,7 +42,7 @@
 ---
 
 ### <img src="https://i.gifer.com/ZZ5H.gif" width="24" /> **Streak**
-[![GitHub Streak](https://streak-stats.demolab.com?user=catsdisownedz&theme=radical&hide_border=true&background=0D1117&stroke=F700FF&ring=F700FF&fire=F700FF&currStreakNum=FFFFFF&sideNums=F700FF&dates=BBBBBB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=catsdisownedz&theme=radical&hide_border=true&background=0D1117&stroke=F700FF&ring=F700FF&fire=F700FF&currStreakNum=FFFFFF&sideNums=F700FF&dates=BBBBBB&currStreakLabel=e88a54)](https://git.io/streak-stats)
 
 ---
 
