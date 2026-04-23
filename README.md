@@ -13,7 +13,6 @@
 
 [![Email](https://img.shields.io/badge/_Email-catsdisownedz%40gmail.com-FFB7C5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF69B4)](mailto:catsdisownedz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Zeina_Elregaily-FFB7C5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4)](https://www.linkedin.com/in/zeina-elregaily-28959b24a/)
-[![GitHub](https://img.shields.io/badge/_GitHub-catsdisownedz-FFB7C5?style=for-the-badge&logo=github&logoColor=white&labelColor=FF69B4)](https://github.com/catsdisownedz)
 
 </div>
 
