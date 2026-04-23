@@ -5,8 +5,6 @@
 
 </div>
 
----
-
 ## 🔗 **Let’s connect** 🎀
 
 <div align="center">
@@ -16,9 +14,7 @@
 
 </div>
 
----
-
-## ## <img src="https://i.gifer.com/ZZ5H.gif" width="28" /> **GitHub Fun :)**
+## <img src="https://i.gifer.com/ZZ5H.gif" width="28" /> **GitHub Fun :)**
 
 <div align="center">
 
@@ -39,18 +35,12 @@
   </tr>
 </table>
 
----
-
 ### <img src="https://i.gifer.com/ZZ5H.gif" width="24" /> **Streak**
 [![GitHub Streak](https://streak-stats.demolab.com?user=catsdisownedz&theme=radical&hide_border=true&background=0D1117&stroke=F700FF&ring=F700FF&fire=F700FF&currStreakNum=FFFFFF&sideNums=F700FF&dates=BBBBBB&currStreakLabel=e88a54)](https://git.io/streak-stats)
-
----
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=catsdisownedz&bg_color=none&hide_border=true&color=FFFFFF&line=FF69B4&point=AA00FF&grid_color=FFD1DC&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FFB7C5&center=true&vCenter=true&width=750&height=60&fontSize=16&lines=%22code+is+the+closest+thing+I+know+to+magic+that+obeys.%22" alt="Typing SVG" />
